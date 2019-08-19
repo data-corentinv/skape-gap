@@ -18,5 +18,5 @@ setup(name='skape-gap',
     install_requires=['numpy>=1.10.4',
                     'scikit-learn>=0.17.1',
                     'pandas>=0.18.1',
-                    'fbprophet==0.3', #[Error]: version 0.4 pose pblm
+                    'fbprophet==0.2.1',
                     'statsmodels>=0.9.0'])
